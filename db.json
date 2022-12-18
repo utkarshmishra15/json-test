@@ -3,72 +3,72 @@
       {
         "id": "1",
         "category": "Logo cotton-blend jacket",
-        "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/75/P00675838.jpg",
-        "name": "VALENTINO",
-        "price": 1515
+        "image": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/b2/P00706286.jpg",
+        "name": "Our Legecy",
+        "price": "$ 5999"
       },
       {
         "id": "2",
         "category": "Printed trunks",
-        "image": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/0c/P00681006.jpg",
-        "name": "VALENTINO",
-        "price": 799
+        "image": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/d6/P00711527.jpg",
+        "name": "ACNE STUDIOS",
+        "price": "$ 1500"
       },
       {
         "id": "3",
-        "category": "Printed trunks",
-        "image": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/42/P00681011.jpg",
-        "name": "VALENTINO",
-        "price": 599
+        "category": "Tie-dye canvas bucket hat",
+        "image": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/00/P00758207.jpg",
+        "name": "MARNI",
+        "price":"$ 599"
       },
       {
         "id": "4",
         "category": "Printed shirt",
         "image": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/0c/P00681008.jpg",
         "name": "VALENTINO",
-        "price": 499
+        "price": "$ 2479"
       },
       {
         "id": "5",
-        "category": "Printed shirt",
-        "image": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/63/P00681005.jpg",
-        "name": "VALENTINO",
-        "price": 499
+        "category": "Printed silk shirt",
+        "image": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/a4/P00726570.jpg",
+        "name": "GIORGIO ARMANI",
+        "price": "$ 1890"
       },
       {
         "id": "6",
-        "category": "Printed shirt",
-        "image": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/8e/P00675821.jpg",
-        "name": "VALENTINO",
-        "price": 899
+        "category": "Windmate® reversible bomber jacket",
+        "image": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/6d/P00490125.jpg",
+        "name": "LORO PIANA",
+        "price": "$ 1549"
       },
       {
         "id": "7",
         "category": "Virgin wool wide-leg pants",
         "image": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/ce/P00675795.jpg",
         "name": "VALENTINO",
-        "price": 799
+        "price": "$ 1289"
       },
       {
         "id": "8",
         "category": "Striped cotton Shirt",
         "image": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/cb/P00675802.jpg",
-        "name": "VALENTINO",
-        "price": 1099
+        "name": "TINOENG",
+        "price": "$ 1099"
       },
       {
         "id": "9",
         "category": "Logo sweatpants",
         "image": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/34/P00675766.jpg",
-        "name": "VALENTINO",
-        "price": 3499
+        "name": "SDITBTGH",
+        "price": "$ 3499"
       },
       {
         "id": "10",
         "category": "Virgin wool sweater ",
         "image": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/3a/P00675803.jpg",
-        "name": "VALENTINO",
-        "price": 499
+        "name": "VALINO",
+        "price": "$ 1499"
       }
     ],
     "womens": [
@@ -76,25 +76,25 @@
         "id": "11",
         "gender": "female",
         "category": "Shoulder bag",
-        "image": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/6f/P00675560.jpg",
+        "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/ab/P00755678_b1.jpg",
         "name": "GUCCI",
-        "price": 1899
+        "price":  "$ 5000"
       },
       {
         "id": "12",
         "gender": "female",
-        "category": "Tie neck blouse",
-        "image": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/86/P00675082.jpg",
+        "category": "Cira belted floral linen minidress",
+        "image": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/9f/P00753020.jpg",
         "name": "GUCCI",
-        "price": 899
+        "price": "$ 3750"
       },
       {
         "id": "13",
         "gender": "female",
         "category": "Leather sandals",
         "image": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/d7/P00693185.jpg",
-        "name": "VALENTINO",
-        "price": 1699
+        "name": "TYNINET",
+        "price": "$ 1699"
       },
       {
         "id": "14",
@@ -102,7 +102,7 @@
         "category": "Mini dress",
         "image": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/65/P00683764.jpg",
         "name": "ALEMAIS",
-        "price": 499
+        "price": "$ 5244"
       },
       {
         "id": "15",
@@ -110,7 +110,7 @@
         "category": "Wide-leg jeans",
         "image": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/88/P00630790.jpg",
         "name": "THE ROW",
-        "price": 449
+        "price": "$ 2541"
       },
       {
         "id": "16",
@@ -118,15 +118,15 @@
         "category": "Slik shots",
         "image": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/c6/P00688316.jpg",
         "name": "ZIMMERMANN",
-        "price": 499
+        "price": "$ 897"
       },
       {
         "id": "17",
         "gender": "female",
         "category": "Mini dress",
         "image": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/66/P00688417.jpg",
-        "name": "ZIMMERMANN",
-        "price": 699
+        "name": "ZERMAN",
+        "price": "$ 699"
       },
       {
         "id": "18",
@@ -134,15 +134,15 @@
         "category": "Cotton top",
         "image": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/9b/P00685532.jpg",
         "name": "ERDEM",
-        "price": 499
+        "price": "$ 499"
       },
       {
         "id": "19",
         "gender": "female",
         "category": "Maxi dress",
         "image": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/a5/P00688053.jpg",
-        "name": "ZIMMERMANN",
-        "price": 799
+        "name": "TRMVGO",
+        "price": "$ 799"
       },
       {
         "id": "20",
@@ -150,7 +150,7 @@
         "category": "Skirt",
         "image": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/45/P00688297.jpg",
         "name": "ZIMMERMANN",
-        "price": 499
+        "price": "$ 499"
       },
       {
         "id": "21",
@@ -158,7 +158,7 @@
         "category": "Demin jacket",
         "image": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/94/P00628767.jpg",
         "name": "LOEWE",
-        "price": 999
+        "price": "$999"
       }
     ],
     "Kids": [
