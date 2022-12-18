@@ -1,1 +1,453 @@
-{}
+{
+    "Mens": [
+      {
+        "id": "1",
+        "category": "Logo cotton-blend jacket",
+        "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/75/P00675838.jpg",
+        "name": "VALENTINO",
+        "price": 1515
+      },
+      {
+        "id": "2",
+        "category": "Printed trunks",
+        "image": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/0c/P00681006.jpg",
+        "name": "VALENTINO",
+        "price": 799
+      },
+      {
+        "id": "3",
+        "category": "Printed trunks",
+        "image": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/42/P00681011.jpg",
+        "name": "VALENTINO",
+        "price": 599
+      },
+      {
+        "id": "4",
+        "category": "Printed shirt",
+        "image": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/0c/P00681008.jpg",
+        "name": "VALENTINO",
+        "price": 499
+      },
+      {
+        "id": "5",
+        "category": "Printed shirt",
+        "image": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/63/P00681005.jpg",
+        "name": "VALENTINO",
+        "price": 499
+      },
+      {
+        "id": "6",
+        "category": "Printed shirt",
+        "image": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/8e/P00675821.jpg",
+        "name": "VALENTINO",
+        "price": 899
+      },
+      {
+        "id": "7",
+        "category": "Virgin wool wide-leg pants",
+        "image": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/ce/P00675795.jpg",
+        "name": "VALENTINO",
+        "price": 799
+      },
+      {
+        "id": "8",
+        "category": "Striped cotton Shirt",
+        "image": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/cb/P00675802.jpg",
+        "name": "VALENTINO",
+        "price": 1099
+      },
+      {
+        "id": "9",
+        "category": "Logo sweatpants",
+        "image": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/34/P00675766.jpg",
+        "name": "VALENTINO",
+        "price": 3499
+      },
+      {
+        "id": "10",
+        "category": "Virgin wool sweater ",
+        "image": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/3a/P00675803.jpg",
+        "name": "VALENTINO",
+        "price": 499
+      }
+    ],
+    "womens": [
+      {
+        "id": "11",
+        "gender": "female",
+        "category": "Shoulder bag",
+        "image": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/6f/P00675560.jpg",
+        "name": "GUCCI",
+        "price": 1899
+      },
+      {
+        "id": "12",
+        "gender": "female",
+        "category": "Tie neck blouse",
+        "image": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/86/P00675082.jpg",
+        "name": "GUCCI",
+        "price": 899
+      },
+      {
+        "id": "13",
+        "gender": "female",
+        "category": "Leather sandals",
+        "image": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/d7/P00693185.jpg",
+        "name": "VALENTINO",
+        "price": 1699
+      },
+      {
+        "id": "14",
+        "gender": "female",
+        "category": "Mini dress",
+        "image": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/65/P00683764.jpg",
+        "name": "ALEMAIS",
+        "price": 499
+      },
+      {
+        "id": "15",
+        "gender": "female",
+        "category": "Wide-leg jeans",
+        "image": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/88/P00630790.jpg",
+        "name": "THE ROW",
+        "price": 449
+      },
+      {
+        "id": "16",
+        "gender": "female",
+        "category": "Slik shots",
+        "image": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/c6/P00688316.jpg",
+        "name": "ZIMMERMANN",
+        "price": 499
+      },
+      {
+        "id": "17",
+        "gender": "female",
+        "category": "Mini dress",
+        "image": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/66/P00688417.jpg",
+        "name": "ZIMMERMANN",
+        "price": 699
+      },
+      {
+        "id": "18",
+        "gender": "female",
+        "category": "Cotton top",
+        "image": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/9b/P00685532.jpg",
+        "name": "ERDEM",
+        "price": 499
+      },
+      {
+        "id": "19",
+        "gender": "female",
+        "category": "Maxi dress",
+        "image": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/a5/P00688053.jpg",
+        "name": "ZIMMERMANN",
+        "price": 799
+      },
+      {
+        "id": "20",
+        "gender": "female",
+        "category": "Skirt",
+        "image": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/45/P00688297.jpg",
+        "name": "ZIMMERMANN",
+        "price": 499
+      },
+      {
+        "id": "21",
+        "gender": "female",
+        "category": "Demin jacket",
+        "image": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/94/P00628767.jpg",
+        "name": "LOEWE",
+        "price": 999
+      }
+    ],
+    "Kids": [
+      {
+        "id": "22",
+        "gender": "kids",
+        "category": "Swinsuit",
+        "image": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/a0/P00529051.jpg",
+        "name": "BURBERRY KIDS",
+        "price": 199
+      },
+      {
+        "id": "23",
+        "gender": "kids",
+        "category": "Logo cotton-cap",
+        "image": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/6f/P00537437.jpg",
+        "name": "POLO RALPH LAUREN KIDS",
+        "price": 99
+      },
+      {
+        "id": "24",
+        "gender": "kids",
+        "category": "Leather sneakers",
+        "image": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/20/P00543156.jpg",
+        "name": "MOSCHINO KIDS",
+        "price": 119
+      },
+      {
+        "id": "25",
+        "gender": "kids",
+        "category": "Socks sneaker",
+        "image": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/41/P00591993.jpg",
+        "name": "MOSCHINO KIDS",
+        "price": 199
+      },
+      {
+        "id": "26",
+        "gender": "kids",
+        "category": "Wool sweater",
+        "image": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/ee/P00617784.jpg",
+        "name": "GUCCI KIDS",
+        "price": 449
+      },
+      {
+        "id": "27",
+        "gender": "kids",
+        "category": "lace dress",
+        "image": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/96/P00617796.jpg",
+        "name": "GUCCI KIDS",
+        "price": 1499
+      },
+      {
+        "id": "28",
+        "gender": "kids",
+        "category": "Printed shirt",
+        "image": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/b7/P00617793.jpg",
+        "name": "GUCCI KIDS",
+        "price": 39
+      },
+      {
+        "id": "29",
+        "gender": "kids",
+        "category": "Cotton t-shirt",
+        "image": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/3d/P00633593.jpg",
+        "name": "BALENCIAGA KIDS",
+        "price": 199
+      },
+      {
+        "id": "30",
+        "gender": "kids",
+        "category": "Trench coat",
+        "image": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/df/P00633051.jpg",
+        "name": "BURBERRY KIDS",
+        "price": 799
+      },
+      {
+        "id": "31",
+        "gender": "kids",
+        "category": "Printed hoodie",
+        "image": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/dd/P00631392.jpg",
+        "name": "MONNALISA",
+        "price": 299
+      },
+      {
+        "id": "32",
+        "gender": "kids",
+        "category": "Printed cotton dress",
+        "image": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/53/P00627115.jpg",
+        "name": "CAMILLA KIDS",
+        "price": 399
+      }
+    ],
+    "Life": [
+      {
+        "id": "33",
+        "gender": "life",
+        "category": "Blend cushion",
+        "image": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/73/P00678596.jpg",
+        "name": "MISSONI",
+        "price": 399
+      },
+      {
+        "id": "34",
+        "gender": "life",
+        "category": "Large rounded bottle",
+        "image": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/ec/P00678224.jpg",
+        "name": "VENINI",
+        "price": 499
+      },
+      {
+        "id": "35",
+        "gender": "life",
+        "category": "Tea saucers",
+        "image": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/0c/P00679241.jpg",
+        "name": "GINORI 1735",
+        "price": 99
+      },
+      {
+        "id": "36",
+        "gender": "life",
+        "category": "Morandi bottle",
+        "image": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/1e/P00678579.jpg",
+        "name": "NASONMORETTI",
+        "price": 199
+      },
+      {
+        "id": "37",
+        "gender": "life",
+        "category": "Labirinto mug",
+        "image": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/4d/P00679114.jpg",
+        "name": "GINORI 1735",
+        "price": 69
+      },
+      {
+        "id": "38",
+        "gender": "life",
+        "category": "Unity stool",
+        "image": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/dc/P00678063.jpg",
+        "name": "ZANAT",
+        "price": 1499
+      },
+      {
+        "id": "39",
+        "gender": "life",
+        "category": "Wind & Fire vase",
+        "image": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/65/P00678318.jpg",
+        "name": "SERAX",
+        "price": 99
+      },
+      {
+        "id": "40",
+        "gender": "life",
+        "category": "Bolle bottle",
+        "image": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/ac/P00678232.jpg",
+        "name": "VENINI",
+        "price": 1499
+      },
+      {
+        "id": "41",
+        "gender": "life",
+        "category": "Baroque Bianco plate",
+        "image": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/51/P00678392.jpg",
+        "name": "ROSENTHAL",
+        "price": 79
+      },
+      {
+        "id": "42",
+        "gender": "life",
+        "category": "DSW chair",
+        "image": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/24/P00678177.jpg",
+        "name": "VITRA",
+        "price": 399
+      },
+      {
+        "id": "43",
+        "gender": "life",
+        "category": "Kew Small pouf",
+        "image": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/17/P00678583.jpg",
+        "name": "MISSONI",
+        "price": 409
+      }
+    ],
+    "cart": [
+      {
+        "productimage_url": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/c6/P00688316.jpg",
+        "productprice": 499,
+        "productname": "ZIMMERMANN",
+        "producttitle": "Slik shots",
+        "id": 4
+      },
+      {
+        "productimage_url": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/75/P00675838.jpg",
+        "productprice": 1515,
+        "productname": "VALENTINO",
+        "producttitle": "Logo cotton-blend jacket",
+        "id": 5
+      },
+      {
+        "productimage_url": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/cb/P00675802.jpg",
+        "productprice": 1099,
+        "productname": "VALENTINO",
+        "producttitle": "Striped cotton Shirt",
+        "id": 6
+      },
+      {
+        "productimage_url": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/6f/P00537437.jpg",
+        "productprice": 99,
+        "productname": "POLO RALPH LAUREN KIDS",
+        "producttitle": "Logo cotton-cap",
+        "id": 7
+      },
+      {
+        "productimage_url": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/20/P00543156.jpg",
+        "productprice": 119,
+        "productname": "MOSCHINO KIDS",
+        "producttitle": "Leather sneakers",
+        "id": 8
+      },
+      {
+        "productimage_url": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/73/P00678596.jpg",
+        "productprice": 399,
+        "productname": "MISSONI",
+        "producttitle": "Blend cushion",
+        "id": 9
+      },
+      {
+        "productimage_url": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/ec/P00678224.jpg",
+        "productprice": 499,
+        "productname": "VENINI",
+        "producttitle": "Large rounded bottle",
+        "id": 10
+      }
+    ],
+    "whishlist": [
+      {
+        "productimage_url": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/a5/P00688053.jpg",
+        "productprice": 799,
+        "productname": "ZIMMERMANN",
+        "producttitle": "Maxi dress",
+        "id": 1
+      },
+      {
+        "productimage_url": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/66/P00688417.jpg",
+        "productprice": 699,
+        "productname": "ZIMMERMANN",
+        "producttitle": "Mini dress",
+        "id": 2
+      },
+      {
+        "productimage_url": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/88/P00630790.jpg",
+        "productprice": 449,
+        "productname": "THE ROW",
+        "producttitle": "Wide-leg jeans",
+        "id": 3
+      },
+      {
+        "productimage_url": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/6f/P00675560.jpg",
+        "productprice": 1899,
+        "productname": "GUCCI",
+        "producttitle": "Shoulder bag",
+        "id": 4
+      },
+      {
+        "productimage_url": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/41/P00591993.jpg",
+        "productprice": 199,
+        "productname": "MOSCHINO KIDS",
+        "producttitle": "Socks sneaker",
+        "id": 5
+      },
+      {
+        "productimage_url": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/df/P00633051.jpg",
+        "productprice": 799,
+        "productname": "BURBERRY KIDS",
+        "producttitle": "Trench coat",
+        "id": 6
+      },
+      {
+        "productimage_url": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/6f/P00675560.jpg",
+        "productprice": 1899,
+        "productname": "GUCCI",
+        "producttitle": "Shoulder bag",
+        "id": 7
+      },
+      {
+        "productimage_url": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/c6/P00688316.jpg",
+        "productprice": 499,
+        "productname": "ZIMMERMANN",
+        "producttitle": "Slik shots",
+        "id": 8
+      }
+    ]
+  }
